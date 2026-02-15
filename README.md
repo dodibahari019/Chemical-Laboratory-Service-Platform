@@ -1,6 +1,6 @@
 # Chemical Laboratory Management System (ChemLabSys)
 
-A web-based Chemical Laboratory Management System built with React, Node.js, and MySQL that manages laboratory requests, tools, reagents, scheduling, and payment transactions through an integrated system.
+A web-based Chemical Laboratory Management System built with React, Node.js, Express.js, and MySQL that manages laboratory requests, tools, reagents, scheduling, and payment transactions through an integrated system.
 
 ---
 
