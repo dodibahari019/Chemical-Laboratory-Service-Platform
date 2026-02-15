@@ -125,3 +125,19 @@ Future Improvements
 ---
 
 ## Screenshots
+
+<img width="1366" height="617" alt="image" src="https://github.com/user-attachments/assets/f27c0064-e613-409f-9a67-cb348611332f" />
+<img width="1366" height="618" alt="image" src="https://github.com/user-attachments/assets/477e55a9-6250-4efd-9308-6a794103fbd6" />
+<img width="1363" height="617" alt="image" src="https://github.com/user-attachments/assets/0870447c-2800-4a29-b9d6-26218390cd91" />
+<img width="1365" height="620" alt="image" src="https://github.com/user-attachments/assets/1f27edb0-5fd4-4fed-9a6d-2cccca95c150" />
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/32339d7b-85a7-4dce-a26d-dbec7ca650bd" />
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/e38297d2-c826-40ee-bb85-5dc3835dde35" />
+<img width="1366" height="611" alt="image" src="https://github.com/user-attachments/assets/95a7144f-4f3a-4c2c-b589-7533436cdd2e" />
+<img width="1366" height="615" alt="image" src="https://github.com/user-attachments/assets/30ec3132-cb88-4fe6-a121-eacad83f9bc3" />
+<img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/51ad36e1-b528-488a-916d-03a98163e92b" />
+
+
+
+
+
+
